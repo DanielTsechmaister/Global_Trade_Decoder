@@ -1,9 +1,9 @@
-# Python_pandas
+# Global Trade Decoder with Pandas library
 
-# Introduction
+## Introduction
 Global Trade Decoder is a Python project for analyzing international agricultural trade data. It aims to uncover insights and patterns in global import and export flows.
 
-# Class Initialization
+## Class Initialization
 The `Preprocess_Data` class is initialized with the database loaded into a table named `df`, which is a public instance DataFrame. You can create an instance of this class as follows:
 
 ```python
