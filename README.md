@@ -1,9 +1,7 @@
 # Python_pandas
-Write it to me in the form of a file
-README.md for the GitHub project
 
 # Introduction
-The `Preprocess_Data` class is a powerful tool for handling and analyzing a database stored in the compressed file 'pickle.data'. This class provides various methods for processing and gaining insights from the data. Below, you'll find detailed explanations of the class's functionality.
+Global Trade Decoder is a Python project for analyzing international agricultural trade data. It aims to uncover insights and patterns in global import and export flows.
 
 # Class Initialization
 The `Preprocess_Data` class is initialized with the database loaded into a table named `df`, which is a public instance DataFrame. You can create an instance of this class as follows:
